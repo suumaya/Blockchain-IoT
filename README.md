@@ -1,2 +1,2 @@
-# TeachCampus
+# SEC
 security related projects
